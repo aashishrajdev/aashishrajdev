@@ -14,7 +14,6 @@ I’ve got a bunch of pinned projects, but my favorite is the [Syncsy]([https://
 
 I’ve built 30+ public repos, but privately.. it’s probably more than 50 at this point.
 
-<!--If you want to learn how i do it, [my books and course](https://www.bunnyhop.ai/) are available here!-->
 
 #### Fun Facts:
 
