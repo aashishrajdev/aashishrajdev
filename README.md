@@ -19,5 +19,7 @@ I’ve built 30+ public repos, but privately.. it’s probably more than 50 at t
 
 * I love eating chicken
 * I like big curved monitor
+* Hardcore fan of my girlfriend
 * DHH is my favorite genre
 * **Hobbies:** fps games, gym, building things
+
