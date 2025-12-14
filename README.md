@@ -10,9 +10,11 @@ I’m interested in web development, cloud, and DevOps & enjoy turning ideas int
 
 My main tech stack is next, react, typescript, tailwind, node, express, mongodb and many more. My favorite tools are vscode, figma, docker, AWS etc.
 
-I’ve got a bunch of pinned projects, but my favorite is the [![Syncsy](https://img.shields.io/badge/Syncsy-View%20Project-blue?style=for-the-badge)](https://github.com/aashishrajdev/syncsy).
+I’ve got a bunch of pinned projects, but my favorite is the ![Syncsy](https://github.com/aashishrajdev/syncsy).
 
 I’ve built 30+ public repos, but privately.. it’s probably more than 50 at this point.
+
+Want to know more? Here’s my ![Resume](https://github.com/aashishrajdev/Resume/blob/main/AashishRaj-resume.pdf).
 
 
 #### Fun Facts:
@@ -22,4 +24,3 @@ I’ve built 30+ public repos, but privately.. it’s probably more than 50 at t
 * Hardcore fan of my girlfriend
 * DHH is my favorite genre
 * **Hobbies:** fps games, gym, building things
-
