@@ -12,7 +12,7 @@ My main tech stack is next, react, typescript, tailwind, node, express, mongodb 
 
 I’ve got a bunch of pinned projects, but my favorite is the ![Syncsy](https://github.com/aashishrajdev/syncsy).
 
-I’ve built 30+ public repos, but privately.. it’s probably more than 50 at this point.
+I’ve built 50+ public repos, but privately.. it’s probably more than 70 at this point.
 
 Want to know more? Here’s my ![Resume](https://github.com/aashishrajdev/Resume/blob/main/AashishRaj-resume.pdf).
 
