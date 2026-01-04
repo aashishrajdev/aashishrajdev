@@ -23,4 +23,4 @@ Want to know more? Here’s my ![Resume](https://github.com/aashishrajdev/Resume
 * I like big curved monitor
 * Hardcore fan of my girlfriend
 * DHH is my favorite genre
-* **Hobbies:** fps games, gym, building things
+* **Hobbies:** FPS gaming, gym & fitness, and hands-on building (except coding).
