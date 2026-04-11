@@ -14,7 +14,7 @@ I’ve got a bunch of pinned projects, but my favorite is the ![Syncsy](https://
 
 I’ve built 50+ public repos, but privately.. it’s probably more than 70 at this point.
 
-Want to know more? Here’s my ![Resume]([https://github.com/aashishrajdev/Resume).
+Want to know more? Here’s my ![Resume](https://github.com/aashishrajdev/Resume).
 
 
 #### Fun Facts:
