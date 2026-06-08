@@ -1,24 +1,29 @@
 ### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm [**Aashish**](https://www.aashish.live), a software engineer based in India.
+I'm [**Aashish**](https://portfolio-aashishrajdev.vercel.app/), a software engineer based in India who builds whatever I can imagine — if an idea pops into my head, chances are I'll ship it.
 
-I design and build whatever I can imagine.
+I'm into web development, cloud, and DevOps, and I love turning ideas into clean, functional UI.
 
-If an idea pops into my head, chances are I'll build it and ship it.
+#### 🛠️ Skills
+**Languages:** TypeScript, Python, Go, C++ <br>
+**Frontend:** Next.js, Angular, TailwindCSS, styled-components, React Native <br>
+**Backend:** Node, Express, FastAPI, Hono, gRPC, REST & Webhooks <br>
+**AI:** LangChain, LangGraph, MCP <br>
+**Data:** MongoDB, PostgreSQL, BigQuery, Redis, Prisma, ChromaDB
 
-I'm interested in web development, cloud, and DevOps & enjoy turning ideas into clean, functional UI
+#### ⚙️ Favorite Tools
+VS Code, Figma, Docker, Kubernetes, AWS, GCP, Git, Jenkins, Apache Airflow, Postman, Vercel, Firebase, Clerk — and Claude 🤝 (couldn't resist).
 
-My main tech stack is next, react, typescript, tailwind, node, express, mongodb and many more. My favorite tools are vscode, figma, docker, AWS etc.
+#### 🚀 Projects
+I'm currently heads-down building my favorite project — not ready yet, but stay tuned. 👀 In the meantime, you can check out these:
+- [**Syncsy**](https://github.com/aashishrajdev/syncsy) — real-time collaboration system ([live](https://syncsy.vercel.app/))
+- [**ai-cli**](https://github.com/aashishrajdev/ai-cli) — AI-powered command-line tool
 
-I've got a bunch of pinned projects, but my favorite is the [Syncsy](https://github.com/aashishrajdev/syncsy).
+I've shipped 50+ public repos (and 70+ counting private ones). Want to know more? Here's my [Resume](https://github.com/aashishrajdev/Resume).
 
-I've built 50+ public repos, but privately.. it's probably more than 70 at this point.
-
-Want to know more? Here's my [Resume](https://github.com/aashishrajdev/Resume).
-
-#### Fun Facts:
-* I love eating chicken
-* I like big curved monitor
+#### 🎯 Fun Facts
+* I love eating chicken 🍗
+* Big curved monitor enjoyer
 * Hardcore fan of my girlfriend
 * DHH is my favorite genre
-* **Hobbies:** FPS gaming, gym & fitness, and hands-on building (except coding).
+* **Hobbies:** FPS gaming, gym & fitness, and hands-on building (except coding)
